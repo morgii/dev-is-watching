@@ -210,7 +210,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 1
+          value: 2
         fsmBoolParams: []
         fsmVector2Params: []
         fsmVector3Params: []
@@ -479,6 +479,38 @@ PrefabInstance:
       propertyPath: fsm.variables.gameObjectVariables.Array.data[1].value
       value: 
       objectReference: {fileID: 841279094114849624}
+    - target: {fileID: 5297848646314771303, guid: a86b0bbb8cb55ff4c9dc36805ab757e9, type: 3}
+      propertyPath: fsm.states.Array.data[0].actionData.fsmOwnerDefaultParams.Array.data[0].gameObject.value
+      value: 
+      objectReference: {fileID: 841279094114849624}
+    - target: {fileID: 5297848646314771303, guid: a86b0bbb8cb55ff4c9dc36805ab757e9, type: 3}
+      propertyPath: fsm.states.Array.data[0].actionData.fsmOwnerDefaultParams.Array.data[1].gameObject.value
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5297848646314771303, guid: a86b0bbb8cb55ff4c9dc36805ab757e9, type: 3}
+      propertyPath: fsm.states.Array.data[0].actionData.fsmOwnerDefaultParams.Array.data[2].gameObject.value
+      value: 
+      objectReference: {fileID: 841279094114849624}
+    - target: {fileID: 5297848646314771303, guid: a86b0bbb8cb55ff4c9dc36805ab757e9, type: 3}
+      propertyPath: fsm.states.Array.data[0].actionData.fsmOwnerDefaultParams.Array.data[3].gameObject.value
+      value: 
+      objectReference: {fileID: 7217091672077640919}
+    - target: {fileID: 5297848646314771303, guid: a86b0bbb8cb55ff4c9dc36805ab757e9, type: 3}
+      propertyPath: fsm.states.Array.data[1].actionData.fsmOwnerDefaultParams.Array.data[0].gameObject.value
+      value: 
+      objectReference: {fileID: 841279094114849624}
+    - target: {fileID: 5297848646314771303, guid: a86b0bbb8cb55ff4c9dc36805ab757e9, type: 3}
+      propertyPath: fsm.states.Array.data[1].actionData.fsmOwnerDefaultParams.Array.data[1].gameObject.value
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5297848646314771303, guid: a86b0bbb8cb55ff4c9dc36805ab757e9, type: 3}
+      propertyPath: fsm.states.Array.data[1].actionData.fsmOwnerDefaultParams.Array.data[2].gameObject.value
+      value: 
+      objectReference: {fileID: 841279094114849624}
+    - target: {fileID: 5297848646314771303, guid: a86b0bbb8cb55ff4c9dc36805ab757e9, type: 3}
+      propertyPath: fsm.states.Array.data[1].actionData.fsmOwnerDefaultParams.Array.data[3].gameObject.value
+      value: 
+      objectReference: {fileID: 7217091672077640919}
     - target: {fileID: 7412429249376795623, guid: a86b0bbb8cb55ff4c9dc36805ab757e9, type: 3}
       propertyPath: m_Name
       value: resourceManagerActivator
