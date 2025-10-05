@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2916766370181536308}
   m_Layer: 0
   m_Name: wheetFarm
-  m_TagString: Untagged
+  m_TagString: buildings
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
