@@ -6,6 +6,7 @@ TagManager:
   tags:
   - buildBase
   - buildings
+  - activator
   layers:
   - Default
   - TransparentFX
