@@ -433,7 +433,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1664980603256005819, guid: a86b0bbb8cb55ff4c9dc36805ab757e9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.008403334
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1664980603256005819, guid: a86b0bbb8cb55ff4c9dc36805ab757e9, type: 3}
       propertyPath: m_LocalPosition.y
@@ -441,7 +441,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1664980603256005819, guid: a86b0bbb8cb55ff4c9dc36805ab757e9, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.62647337
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1664980603256005819, guid: a86b0bbb8cb55ff4c9dc36805ab757e9, type: 3}
       propertyPath: m_LocalRotation.w
@@ -449,15 +449,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1664980603256005819, guid: a86b0bbb8cb55ff4c9dc36805ab757e9, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1664980603256005819, guid: a86b0bbb8cb55ff4c9dc36805ab757e9, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1664980603256005819, guid: a86b0bbb8cb55ff4c9dc36805ab757e9, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1664980603256005819, guid: a86b0bbb8cb55ff4c9dc36805ab757e9, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -511,6 +511,10 @@ PrefabInstance:
       propertyPath: fsm.states.Array.data[1].actionData.fsmOwnerDefaultParams.Array.data[3].gameObject.value
       value: 
       objectReference: {fileID: 7217091672077640919}
+    - target: {fileID: 5832739157402001869, guid: a86b0bbb8cb55ff4c9dc36805ab757e9, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7412429249376795623, guid: a86b0bbb8cb55ff4c9dc36805ab757e9, type: 3}
       propertyPath: m_Name
       value: resourceManagerActivator

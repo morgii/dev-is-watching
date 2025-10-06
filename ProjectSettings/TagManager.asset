@@ -8,6 +8,7 @@ TagManager:
   - buildings
   - activator
   - piller
+  - activatorMainBody
   layers:
   - Default
   - TransparentFX
